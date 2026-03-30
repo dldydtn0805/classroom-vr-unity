@@ -1,0 +1,24 @@
+{
+  "name": "AgoraVR.Tests.EditMode",
+  "rootNamespace": "AgoraVR.Tests",
+  "references": [
+    "AgoraVR.Common",
+    "AgoraVR.Domain",
+    "AgoraVR.Application",
+    "AgoraVR.Infrastructure"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

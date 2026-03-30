@@ -1,0 +1,16 @@
+{
+  "name": "AgoraVR.Domain",
+  "rootNamespace": "AgoraVR",
+  "references": [
+    "AgoraVR.Common"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
